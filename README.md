@@ -27,10 +27,10 @@ MBA Project Management
  	2.7   Communication in IT projects
  	2.8   Leadership
  	2.9   Change Management
- 	      2.9.1      The concept of change 
- 	      2.9.2      Types of changes
-            2.9.3      The causes of change
- 	      2.9.4      Impact of change
+ 	       2.9.1      The concept of change 
+ 	       2.9.2      Types of changes
+             2.9.3      The causes of change
+ 	       2.9.4      Impact of change
  	2.10  Stakeholder Management (Tools and Techniques)
       2.11  Stakeholder Analysis 
  	2.12  Stakeholder Cycle
