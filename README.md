@@ -27,13 +27,13 @@ MBA Project Management
  	2.7   Communication in IT projects
  	2.8   Leadership
  	2.9   Change Management
- 	       2.9.1      The concept of change 
- 	       2.9.2      Types of changes
-             2.9.3      The causes of change
- 	2.9.4     Impact of change
- 	2.10    Stakeholder Management (Tools and Techniques)
-      2.11    Stakeholder Analysis 
- 	2.12    Stakeholder Cycle
+ 	      2.9.1      The concept of change 
+ 	      2.9.2      Types of changes
+            2.9.3      The causes of change
+ 	      2.9.4      Impact of change
+ 	2.10  Stakeholder Management (Tools and Techniques)
+      2.11  Stakeholder Analysis 
+ 	2.12  Stakeholder Cycle
  
 # Chapter 3 - Methodology
       3.1   Introduction
@@ -42,16 +42,16 @@ MBA Project Management
  	3.4   Research Strategy 
  	3.5   Research Choice 
  	3.6   Time Horizon
- 	3.7    Data Collection
-      3.8    Data Analysis Procedures
- 	3.9    Population and Sample 
+ 	3.7   Data Collection
+      3.8   Data Analysis Procedures
+ 	3.9   Population and Sample 
       3.10  Limitations of the research 
  	3.11  Conclusion
       
 # Chapter 4 - Data Results and Findings
- 	 4.1 Introduction 
- 	 4.2 Descriptive Statistics (Survey)
-   	 4.3 Descriptive Analysis (Semi-Structured Interview)
+ 	4.1 Introduction 
+ 	4.2 Descriptive Statistics (Survey)
+   	4.3 Descriptive Analysis (Semi-Structured Interview)
  
 # Chapter 5 - Discussion & Conclusion
  
